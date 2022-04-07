@@ -1,0 +1,22 @@
+{
+  "name": "kooma-assets",
+  "version": "1.0.0",
+  "description": "AssetsRepo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KoomaLee/AssetsRepo.git"
+  },
+  "keywords": [
+    "图床"
+  ],
+  "author": "kooma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KoomaLee/AssetsRepo/issues"
+  },
+  "homepage": "https://github.com/KoomaLee/AssetsRepo#readme"
+}
