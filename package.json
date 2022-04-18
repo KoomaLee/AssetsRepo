@@ -1,10 +1,6 @@
 {
   "name": "kooma-assets",
-<<<<<<< HEAD
-  "version": "1.0.14",
-=======
-  "version": "1.1.0",
->>>>>>> 899da9af32bf9dbcced4dbd404c787a1668d5b93
+  "version": "1.1.1",
   "description": "AssetsRepo",
   "main": "index.js",
   "scripts": {
